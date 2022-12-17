@@ -1,6 +1,6 @@
 //Write a C program that asks the user for the side lengths of 2 rectangles. The
 //program finds which rectangle is bigger and prints the result on the screen. If any
-//negative values are entered, the program displays “Negative value entered” and
+//negative values are entered, the program displays â€œNegative value enteredâ€ and
 //terminates
 
 //Ilke D. 28.10.2022
