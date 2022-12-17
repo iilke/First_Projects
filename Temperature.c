@@ -1,8 +1,8 @@
 //Write a C program that asks the user to enter a temperature value t as a floating
 //point number. The program should print:
-//- “The weather’s cold” if t<5,
-//- “The weather’s warm” if 5<t<20,
-//- “The weather’s hot” if t>20
+//- â€œThe weatherâ€™s coldâ€ if t<5,
+//- â€œThe weatherâ€™s warmâ€ if 5<t<20,
+//- â€œThe weatherâ€™s hotâ€ if t>20
 
 //Ilke D. 28.10.2022
 #include <stdio.h>
